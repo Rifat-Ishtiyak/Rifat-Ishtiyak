@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-# :warning: Profile is under construction :warning:
+# :warning: Profile is Under Construction :warning:
 
 <!---
 Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
