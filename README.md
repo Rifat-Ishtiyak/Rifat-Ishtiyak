@@ -11,5 +11,5 @@ Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rifat&repo=github-readme-stats)](https://github.com/rifat/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rifat-Ishtiyak&repo=github-readme-stats)](https://github.com/Rifat-Ishtiyak/github-readme-stats)
 
