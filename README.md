@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
  <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Ishtiyak&langs_count=8)
 --->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
