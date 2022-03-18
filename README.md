@@ -3,7 +3,8 @@ Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### 🔥 My GitHub Stats
+### <img src="https://media.giphy.com/media/LM7mVNy0iAZpTBAkIH/giphy.gif" width="30" style="position: relative; top: 7px"> <b>My GitHub Stats</b>
+
 <hr>
 <center>
     <table border='3'>
