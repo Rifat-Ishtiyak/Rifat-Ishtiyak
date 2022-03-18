@@ -3,16 +3,9 @@ Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<table border="0">
-    <tr>
-        <td style="padding: 0px 0px">
-            <img src="https://media.giphy.com/media/LM7mVNy0iAZpTBAkIH/giphy.gif" width="40">
-        </td>
-        <td><h2>My GitHub Stats</h2></td>
-    </tr>
-</table>
+### <img src="https://media.giphy.com/media/LM7mVNy0iAZpTBAkIH/giphy.gif" width="40"> <b>My GitHub Stats</b>
 
-
+<hr>
 <center>
     <table border='3'>
         <tr>
