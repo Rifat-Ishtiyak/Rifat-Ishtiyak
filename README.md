@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 My GitHub Stats
 
-<hr>
 <center>
     <table border='3'>
         <tr>
