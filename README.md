@@ -3,7 +3,7 @@ Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<table b>
+<table border="0">
     <tr>
         <td style="padding: 0px 0px">
             <img src="https://media.giphy.com/media/LM7mVNy0iAZpTBAkIH/giphy.gif" width="40">
