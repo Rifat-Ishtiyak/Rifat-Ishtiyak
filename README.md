@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
         </tr>
         <tr>
             <td style="width: 60%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=Rifat-Ishtiyak&show_icons=true&theme=radical"> 
+                <img src="https://github-readme-stats.vercel.app/api?username=ishtiyak98&show_icons=true&theme=radical"> 
             </td>
             <td style="width: 40%;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Ishtiyak&langs_count=10&theme=tokyonight&layout=compact"> 
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiyak98&langs_count=10&theme=tokyonight&layout=compact"> 
             </td>
         </tr>
     </table>
