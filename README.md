@@ -86,32 +86,86 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 
-## 🔥 My GitHub Stats
+<details>
+    <summary><samp></samp></summary>
+    <div align="center">
+         <p><samp><b>Find me on</b></samp></p>
+         <!-- Linkedin -->
+        <a href="http://www.linkedin.com/in/rifat-ishtiyak/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Gmail -->
+        <a href="mailto:rifatishtiyak@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Behance -->
+        <a href="https://www.behance.net/rifatishtiyak" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white">
+        </a>
+    </div>
+    <div>
+        <h3><samp>🔥 <b>My GitHub Stats</b><samp></h3>
+        <center>
+            <table border='3'>
+                <tr>
+                    <th style="text-align: center;">
+                        <samp>Profile Stats</samp>
+                    </th>
+                    <th style="text-align: center;">
+                        <samp>Language Contribution</samp>
+                    </th>
+                </tr>
+                <tr>
+                    <td style="width: 60%;">
+                        <img src="https://github-readme-stats.vercel.app/api?username=ishtiyak98&show_icons=true&theme=radical"> 
+                    </td>
+                    <td style="width: 40%;">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiyak98&langs_count=10&theme=tokyonight&layout=compact"> 
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </p>
+</details>
 
-<center>
-    <table border='3'>
-        <tr>
-            <th style="text-align: center;">
-                Profile Stats
-            </th>
-            <th style="text-align: center;">
-                Language Contribution
-            </th>
-        </tr>
-        <tr>
-            <td style="width: 60%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=ishtiyak98&show_icons=true&theme=radical"> 
-            </td>
-            <td style="width: 40%;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiyak98&langs_count=10&theme=tokyonight&layout=compact"> 
-            </td>
-        </tr>
-    </table>
-</center>
+<!--!--- Github Stat -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Rifat-Ishtiyak&show_icons=true&theme=dark) -->
+### <samp>My Projects:</samp>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Ishtiyak&langs_count=10&layout=compact) -->
+<p align="center">
+    <a href="https://github.com/shahriarshafin/shahriarshafin">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=craftshand-client&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/ishtiyak98/furniture-house">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=furniture-house&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ishtiyak98/tooth-care">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=tooth-care&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/shahriarshafin/Iot-car-controller">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=Nimontron-Convention-Center&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+</p>
+
+<details>
+    <summary>
+        <samp>More Projects</samp>
+    </summary>
+    <p align="center">
+    <a href="https://github.com/ishtiyak98/tooth-care">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=covid19-tracker&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/shahriarshafin/Iot-car-controller">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=e-school&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
+    </a>
+</p>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=Rifat-Ishtiyak&color=brightgreen)
 
