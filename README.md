@@ -4,9 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://user-images.githubusercontent.com/56845656/193446370-a1ae66c8-e20f-4225-989d-091ada741ffd.jpg" alt="Hello world">
-<h1 align="center"><samp>Hi , I'm <b style="margin-right:10px">Ishtiyak</b></samp><img  style="margin-=60px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"><samp>Hi , I'm <b style="margin-right:10px">Ishtiyak</b></samp>👋
 </h1>
-
 
 <div align="center">
     <samp>
