@@ -2,21 +2,32 @@
 Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi , I'm <b>Ishtiyak</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+
+<img src="https://user-images.githubusercontent.com/56845656/193446370-a1ae66c8-e20f-4225-989d-091ada741ffd.jpg" alt="Hello world">
+<br>
+<br>
+
+<h1 align="center">Hi , I'm <b style="margin-right:8px">Ishtiyak</b><img  style="margin-=60px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=100&color=84CC16&center=true&vCenter=true&width=670&lines=Frontend+Developer;MERN+Stack+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
 <hr/> -->
 
-<p align="center">
+<div align="center">
     <samp>
-        「 I Code what I like 」
-        <br>
-        「 I am a frontend web developer and passionate  graphic designer」
-        <br>
-        <br>
+        <b>「 Frontend Web Developer and Graphic Designer 」</b>
     </samp>
+    <br>
+    <br>
+    <samp>I am a Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
+    <br>
+    <br>
+    <samp>"Perfection is not attainable but if we chase perfection we can catch excellence"
+    </samp>
+    <div align="right"><samp> ↳ Vince Lombardi</samp></div>
+    <br>
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>
     <br>
     <br>
@@ -78,7 +89,7 @@ You can click the Preview link to take a look at your changes.
     </a>
 
 
-</p>
+</div>
 <br/>
 
 ## 🔥 My GitHub Stats
