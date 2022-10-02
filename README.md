@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <samp>
-        <b>「 Frontend Web Developer and Graphic Designer 」</b>
+        <h2>「 Frontend Web Developer and Graphic Designer 」</h2>
     </samp>
     <br>
     <br>
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
     <br>
     <samp>"Perfection is not attainable but if we chase perfection we can catch excellence"
     </samp>
-    <div align="right"><samp> ↳ Vince Lombardi</samp></div>
+    <div align="center"><samp> ↳ Vince Lombardi</samp></div>
     <br>
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>
     <br>
