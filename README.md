@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
         <h3 style="margin-bottom:10px"><b>「 Frontend Web Developer and Graphic Designer 」</b>
         </h3>
     </samp>
+    <h4>
     <samp>I am a Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
     <br>
     <br>
@@ -19,6 +20,7 @@ You can click the Preview link to take a look at your changes.
     </samp>
     <div align="center"><samp> ↳ Vince Lombardi</samp></div>
     <br>
+    </h4>
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>
     <br>
     <br>
