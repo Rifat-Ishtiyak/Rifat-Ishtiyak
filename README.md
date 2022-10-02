@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
         <h3 style="margin-bottom:10px"><b>「 Frontend Web Developer and Graphic Designer 」</b>
         </h3>
     </samp>
-    <h4 style="font-wight: normal">
+    <h4 style="font-weight: lighter">
     <samp>I am a Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
     <br>
     <br>
