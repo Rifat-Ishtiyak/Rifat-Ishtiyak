@@ -7,10 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"><samp>Hi , I'm <b style="margin-right:10px">Ishtiyak</b></samp><img  style="margin-=60px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=100&color=84CC16&center=true&vCenter=true&width=670&lines=Frontend+Developer;MERN+Stack+Developer;Graphic+Designer)](https://git.io/typing-svg)
-
-<hr/> -->
-
 <div align="center">
     <samp>
         <h3 style="margin-bottom:10px"><b>「 Frontend Web Developer and Graphic Designer 」</b>
@@ -89,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><samp></samp></summary>
     <div align="center">
-         <p><samp><b>Find me on</b></samp></p>
+         <h3><samp><b>Find me on</b></samp></h3>
          <!-- Linkedin -->
         <a href="http://www.linkedin.com/in/rifat-ishtiyak/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
@@ -133,7 +129,7 @@ You can click the Preview link to take a look at your changes.
 ### <samp>My Projects:</samp>
 
 <p align="center">
-    <a href="https://github.com/shahriarshafin/shahriarshafin">
+    <a href="https://github.com/ishtiyak98/craftshand-client">
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=craftshand-client&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
     </a>
     <span>&nbsp;</span>
@@ -147,7 +143,7 @@ You can click the Preview link to take a look at your changes.
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=tooth-care&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/shahriarshafin/Iot-car-controller">
+    <a href="https://github.com/ishtiyak98/Nimontron-Convention-Center">
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=Nimontron-Convention-Center&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
     </a>
 </p>
@@ -161,7 +157,7 @@ You can click the Preview link to take a look at your changes.
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=covid19-tracker&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/shahriarshafin/Iot-car-controller">
+    <a href="https://github.com/ishtiyak98/e-school">
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ishtiyak98&repo=e-school&border_color=84CC16&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=84CC16" />
     </a>
 </p>
