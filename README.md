@@ -3,6 +3,12 @@ Rifat-Ishtiyak/Rifat-Ishtiyak is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<style>
+    table, th, td {
+        ;
+}
+</style>
+
 <img src="https://user-images.githubusercontent.com/56845656/193446370-a1ae66c8-e20f-4225-989d-091ada741ffd.jpg" alt="Hello world">
 <h1 align="center"><samp>Hi, I'm <b style="margin-right:10px">Ishtiyak</b></samp>👋
 </h1>
@@ -85,6 +91,11 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><samp></samp></summary>
     <div align="center">
+         <h3><samp><b>My Portfolio</b></samp></h3>
+         <img src="https://media.giphy.com/media/1gir7STPb7pC675MLl/giphy.gif" width="30"/>
+         <p><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></p>
+    </div>
+    <div align="center">
          <h3><samp><b>Find me on</b></samp></h3>
          <!-- Linkedin -->
         <a href="http://www.linkedin.com/in/rifat-ishtiyak/" target="_blank"><img alt="Linkedin"
@@ -102,21 +113,21 @@ You can click the Preview link to take a look at your changes.
     <div>
         <h3><samp>🔥 <b>My GitHub Stats</b><samp></h3>
         <center>
-            <table border='3'>
-                <tr>
-                    <th style="text-align: center;">
+            <table border="0" style="border: 1px solid #d8572b">
+                <tr >
+                    <th style="text-align: center; border: 1px solid #d8572b">
                         <samp>Profile Stats</samp>
                     </th>
-                    <th style="text-align: center;">
+                    <th style="text-align: center; border: 1px solid #d8572b">
                         <samp>Language Contribution</samp>
                     </th>
                 </tr>
                 <tr>
-                    <td style="width: 60%;">
-                        <img src="https://github-readme-stats.vercel.app/api?username=ishtiyak98&show_icons=true&theme=radical"> 
+                    <td style="width: 60%; border: 1px solid #d8572b">
+                        <img src="https://github-readme-stats.vercel.app/api?username=ishtiyak98&show_icons=true&theme=codeSTACKr"> 
                     </td>
-                    <td style="width: 40%;">
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiyak98&langs_count=10&theme=tokyonight&layout=compact"> 
+                    <td style="width: 40%; border: 1px solid #d8572b">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiyak98&langs_count=10&theme=codeSTACKr&layout=compact"> 
                     </td>
                 </tr>
             </table>
