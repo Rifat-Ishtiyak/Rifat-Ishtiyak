@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <samp>
-        <h3><b>「 Frontend Web Developer and Graphic Designer 」</b></h2>
+        <h3 style="margin-bottom:10px"><b>「 Frontend Web Developer and Graphic Designer 」</b>
+        </h3>
     </samp>
     <samp>I am a Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
     <br>
