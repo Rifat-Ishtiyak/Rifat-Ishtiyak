@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 
-<details>
+<div>
     <summary><samp></samp></summary>
     <div align="center">
          <h3><samp><b>My Portfolio</b></samp></h3>
@@ -104,6 +104,7 @@ You can click the Preview link to take a look at your changes.
                 src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white">
         </a>
     </div>
+    <br/>
     <div>
         <h3><samp>🔥 <b>My GitHub Stats</b><samp></h3>
         <center>
@@ -127,10 +128,10 @@ You can click the Preview link to take a look at your changes.
             </table>
         </center>
     </p>
-</details>
+</div>
 
 <!--!--- Github Stat -->
-
+ <br/>
 ### <samp>My Projects:</samp>
 
 <p align="center">
