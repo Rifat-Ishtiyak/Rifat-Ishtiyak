@@ -81,9 +81,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <br/>
-
 <div>
-    <summary><samp></samp></summary>
     <div align="center">
          <h3><samp><b>My Portfolio</b></samp></h3>
          <img src="https://media.giphy.com/media/1gir7STPb7pC675MLl/giphy.gif" width="30"/>
@@ -127,12 +125,12 @@ You can click the Preview link to take a look at your changes.
                 </tr>
             </table>
         </center>
-    </p>
+    </div>
 </div>
 
 <!--!--- Github Stat -->
  <br/>
-### <samp>My Projects:</samp>
+<h3><samp>🔥 <b>My Projects</b><samp></h3>
 
 <p align="center">
     <a href="https://github.com/ishtiyak98/craftshand-client">
