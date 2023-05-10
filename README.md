@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <samp>
-        <h3 style="margin-bottom:10px"><b>「 Frontend Web Developer and Graphic Designer 」</b>
+        <h3 style="margin-bottom:10px"><b>「 Web App Developer and Graphic Designer 」</b>
         </h3>
     </samp>
-    <samp>I am a Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
+    <samp>I am a Programmer specialized in web application development using multiple tools, frameworks and libraries both in frontend and backend. I believe in success through hard work and dedication.</samp>
     <br>
     <br>
     <samp>"Perfection is not attainable but if we chase perfection we can catch excellence"
@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <div>
     <div align="center">
-         <h2><samp><b>My Portfolio</b></samp></h2>
+         <h3><samp><b>My Portfolio</b></samp></h3>
          <img src="https://media.giphy.com/media/1gir7STPb7pC675MLl/giphy.gif" width="30"/>
          <h3><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></h3>
     </div>
