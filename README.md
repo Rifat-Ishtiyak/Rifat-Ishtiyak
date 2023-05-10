@@ -30,17 +30,21 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="CSS"
                     src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     </a>
+    <!-- SASS -->
+    <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="SASS"
+                    src="https://img.shields.io/badge/-SASS-CD669A?style=flat-square&logo=SASS&logoColor=white">
+    </a>
+    <!-- Tailwind -->
+    <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="CSS"
+                    src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind css&logoColor=white">
+    </a>
     <!-- Bootstrap -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="CSS"
                     src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </a>
-    <!-- Tailwind -->
-    <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="CSS"
-                    src="https://img.shields.io/badge/-Material UI -007FFF?style=flat-square&logo=mui&logoColor=white">
-    </a>
     <!-- Material UI -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="CSS"
-                    src="https://img.shields.io/badge/-Tailwind -06B6D4?style=flat-square&logo=tailwind css&logoColor=white">
+                    src="https://img.shields.io/badge/-Material UI -007FFF?style=flat-square&logo=mui&logoColor=white">
     </a>
     <!-- JavaScript -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="JavaScript"
@@ -54,6 +58,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
                     src="https://img.shields.io/badge/-React Router-critical?style=flat-square&logo=react router&logoColor=white">
     </a>
+    <!-- React Redux -->
+    <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
+                    src="https://img.shields.io/badge/-Redux-critical?style=flat-square&logo=redux&logoColor=white">
+    </a>
     <!-- Firebase -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
                     src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
@@ -66,9 +74,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
                     src="https://img.shields.io/badge/-Express JS-000000?style=flat-square&logo=express&logoColor=white">
     </a>
-    <!-- API -->
+    <!-- REST API -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
-                    src="https://img.shields.io/badge/-API-009688?style=flat-square&logo=fastapi&logoColor=white">
+                    src="https://img.shields.io/badge/-REST API-009688?style=flat-square&logo=fastapi&logoColor=white">
     </a>
     <!-- MongoDB -->
     <a href="https://github.com/ishtiyak98?tab=repositories" target="_blank"><img alt="React JS"
@@ -83,9 +91,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <div>
     <div align="center">
-         <h3><samp><b>My Portfolio</b></samp></h3>
+         <h2><samp><b>My Portfolio</b></samp></h2>
          <img src="https://media.giphy.com/media/1gir7STPb7pC675MLl/giphy.gif" width="30"/>
-         <p><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></p>
+         <h3><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></h3>
     </div>
     <div align="center">
          <h3><samp><b>Find me on</b></samp></h3>
