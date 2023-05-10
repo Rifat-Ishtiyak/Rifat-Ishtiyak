@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
     <div align="center">
          <h3><samp><b>My Portfolio</b></samp></h3>
          <img src="https://media.giphy.com/media/1gir7STPb7pC675MLl/giphy.gif" width="30"/>
-         <h3><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></h3>
+         <p><a href="https://rifat-ishtiyak.web.app/" target="_blank">rifat-ishtiyak.web.app</a></p>
     </div>
     <div align="center">
          <h3><samp><b>Find me on</b></samp></h3>
